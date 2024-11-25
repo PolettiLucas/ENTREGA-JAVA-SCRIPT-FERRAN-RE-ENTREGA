@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Medias stone",
+        "price": 5000,
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_642610-MLA76451766994_052024-F.webp"
+    },
+    {
+        "id": 2,
+        "name": "Billetera cuero",
+        "price": 12000,
+        "image": "https://http2.mlstatic.com/D_Q_NP_2X_814711-MLA76237076208_052024-E.webp"
+    },
+    {
+        "id": 3,
+        "name": "Remera simple blanca",
+        "price": 32500,
+        "image": "https://http2.mlstatic.com/D_Q_NP_2X_826422-MLA78543998213_082024-E.webp"
+    },
+    {
+        "id": 4,
+        "name": "Marvel",
+        "price": 32000,
+        "image": "https://http2.mlstatic.com/D_Q_NP_2X_637520-MLA78543837291_082024-E.webp"
+    },
+    {
+        "id": 5,
+        "name": "Chancleta",
+        "price": 10000,
+        "image": "https://http2.mlstatic.com/D_Q_NP_2X_784377-MLA80804425997_112024-E.webp"
+    },
+    {
+        "id": 6,
+        "name": "Boxer Stone",
+        "price": 39.99,
+        "image": "https://http2.mlstatic.com/D_Q_NP_2X_908148-MLA76904823723_062024-E.webp"
+    },
+    {
+        "id": 7,
+        "name": "Sandalia",
+        "price": 3000,
+        "image": "https://http2.mlstatic.com/D_Q_NP_2X_893133-MLA80543305498_112024-E.webp"
+    },
+    {
+        "id": 8,
+        "name": "Cinturon XL",
+        "price": 2500,
+        "image": "https://http2.mlstatic.com/D_Q_NP_2X_833302-MLA77828941761_072024-E.webp"
+    },
+    {
+        "id": 9,
+        "name": "Zapas verano",
+        "price": 31000,
+        "image": "https://http2.mlstatic.com/D_Q_NP_2X_837808-MLA77829009423_072024-E.webp"
+    },
+    {
+        "id": 10,
+        "name": "Remera + gorra",
+        "price": 20000,
+        "image": "https://http2.mlstatic.com/D_Q_NP_2X_684387-MLA79292530371_092024-E.webp"
+    },
+    {
+        "id": 11,
+        "name": "Zapas running",
+        "price": 13000,
+        "image": "https://http2.mlstatic.com/D_Q_NP_2X_983525-MLA76746182004_062024-E.webp"
+    },
+    {
+        "id": 12,
+        "name": "Zapas Stone blancas",
+        "price": 15000,
+        "image": "https://http2.mlstatic.com/D_Q_NP_2X_735545-MLA80147321993_102024-E.webp"
+    },
+    {
+        "id": 13,
+        "name": "Remera verano negra",
+        "price": 8000,
+        "image": "https://http2.mlstatic.com/D_Q_NP_2X_670149-MLA79303091287_092024-E.webp"
+    }
+
+    
+]
